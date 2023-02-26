@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using AkuvoxAPI;
+﻿using AkuvoxAPI;
 
 #pragma warning disable CA1852
 

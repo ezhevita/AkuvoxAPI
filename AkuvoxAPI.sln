@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkuvoxAPI", "AkuvoxAPI\AkuvoxAPI.csproj", "{C3C1016D-A2C9-423D-9994-3550925B0B78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkuvoxAPI.Example", "AkuvoxAPI.Example\AkuvoxAPI.Example.csproj", "{C30826CD-9B16-4013-8FFA-A8C4EC6F19AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C3C1016D-A2C9-423D-9994-3550925B0B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C1016D-A2C9-423D-9994-3550925B0B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C1016D-A2C9-423D-9994-3550925B0B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30826CD-9B16-4013-8FFA-A8C4EC6F19AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30826CD-9B16-4013-8FFA-A8C4EC6F19AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30826CD-9B16-4013-8FFA-A8C4EC6F19AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30826CD-9B16-4013-8FFA-A8C4EC6F19AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
